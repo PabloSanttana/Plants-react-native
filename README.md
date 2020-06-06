@@ -13,6 +13,6 @@
 
 [React-Native](https://reactnative.dev/)
 
-##### Inicial um aplicativo com o template do Laboratório de Inovação Tecnológica em Saúde (LAIS)
+##### Iniciar um aplicativo com o template do Laboratório de Inovação Tecnológica em Saúde (LAIS)
 
 `react-native init nameApp --template lais-template`
