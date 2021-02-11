@@ -1,5 +1,16 @@
-# Aplicativo Plants
->template using dribbble.com to practice with React-native
+<h1 align="center">Aplicativo Plants Mobile</h1>
+<p align="center">🚀 template using dribbble.com to practice with React-nativee</p>
+
+Projeto desenvolvido por <strong> Guilherme Pablo De Santana Maciel </strong>
+
+### 🛠 Tecnologia Utilizadas no Desenvolvimento 
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+
+- [React Native](https://reactnative.dev/)      
+- [Android Studio](https://developer.android.com/studio)
+
 
 ### Layout Aplicativo Mobile
 ![layout](https://github.com/PabloSanttana/Plants-react-native/blob/master/Layout%20Plants/layout01.png)
